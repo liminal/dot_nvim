@@ -1,0 +1,8 @@
+/plugged/
+/bundle
+/sessions
+/backup
+.netrwhist
+/.backup/
+/.undo/
+/.tmp/
